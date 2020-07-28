@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on a project that visualizes data with deck.gl 
+🔭 **I’m currently working on:** a project that visualizes data with deck.gl 
 
-💬 Ask me about: Movies. Yes, I have a movie list...
+💬 **Ask me about:** Movies. Yes, I have a movie list...
 
-⚡ Fun fact: Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
+⚡ **Fun fact:** Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
 
 <img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="200px">
 
