@@ -7,7 +7,7 @@
 
 ⚡ Fun fact: Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
 
-<img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="300px">
+<img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="200px">
 
 
 <!--
