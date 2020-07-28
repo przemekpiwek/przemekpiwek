@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a project that visualizes data with deck.gl
+💬 Ask me about: Movies. Yes, I have a movie list...
+⚡ Fun fact: Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
 <!--
 **przemekpiwek/przemekpiwek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
