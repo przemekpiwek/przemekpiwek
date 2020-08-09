@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... A twitter clone
-
 💬 **Ask me about:** Movies. Yes, I have a movie list...
 
 ⚡ **Fun fact:** Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
