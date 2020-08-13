@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...Firebase!
+- 🌱 **I’m currently learning** ...Firebase!
 
 💬 **Ask me about:** Movies. Yes, I have a movie list...
 
