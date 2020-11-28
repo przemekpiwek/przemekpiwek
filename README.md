@@ -7,10 +7,8 @@
 
 ⚡ **Fun fact:** Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
 
-<img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="200px">
+<img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="300px">
 
-
-![Przemek's github stats](https://github-readme-stats.vercel.app/api?username=przemekpiwek&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **przemekpiwek/przemekpiwek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
