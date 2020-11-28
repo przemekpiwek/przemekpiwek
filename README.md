@@ -1,5 +1,4 @@
-<div>
-<div>
+
 ### Hi there 👋
 
 🌱 **I’m currently learning** ...Firebase!
@@ -8,11 +7,8 @@
 
 ⚡ **Fun fact:** Irrational love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
 
-</div>
-
 <img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="200px">
 
-</div>
 
 ![Przemek's github stats](https://github-readme-stats.vercel.app/api?username=przemekpiwek&count_private=true&show_icons=true&theme=tokyonight)
 <!--
