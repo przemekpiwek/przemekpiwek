@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-🌱 **I’m currently learning** ...AWS!
+🌱 **I’m currently learning**...AWS!
 
 💬 **Ask me about:** Movies. Yes, I have a movie list...
 
