@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-🌱 **I’m currently learning**...Serverless!
+🌱 **I’m currently learning**...AWS!
 
-💬 **Ask me about:** Movies. Yes, I have a movie list...
+💬 **Ask me about:** Movies!
 
-⚡ **Fun fact:** Unexplainable love for boards... I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
+⚡ **Fun fact:** I'm an ex-competitive slopestyle snowboarder, serious skateboarder, and casual surfer
 
 <img src="https://github.com/przemekpiwek/przemekpiwek/blob/master/ski.gif" width="300px">
 
